@@ -45,7 +45,7 @@ $result_monthly_avg = $conn->query($sql_monthly_avg);
 </head>
 <body>
 <div class="container mt-5">
-    <h1>Datos Estadísticos de Temperatura y Humedad</h1>
+    <h1>hola hola hola</h1>
 
     <h2>Promedios Generales</h2>
     <p>Promedio de Temperatura: <?php echo round($avg_data['avg_temp'], 2); ?> °C</p>
